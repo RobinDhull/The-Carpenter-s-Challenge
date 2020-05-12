@@ -1,5 +1,4 @@
 ''' author: Robin 
-    Roll No: 1710991932
 '''
 # n denotes number of wooden pieces
 # x, y and z are the dimensions of wooden pieces
